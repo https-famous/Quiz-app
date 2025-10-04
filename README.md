@@ -1,2 +1,2 @@
 # Quiz-app
-Quiz app made with html, css and javascript
+Quiz app made with html, css and javascript language
